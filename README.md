@@ -1,12 +1,12 @@
 # UniStack — INES Digital Notice Board & Marketplace
 
-> **Assignment #2 — From Street to Stack | INES-Ruhengeri, Year II CS**
+> Assignment #2 — From Street to Stack | INES-Ruhengeri, Year II CS
 > Scenario C: UniStack
 
 ---
 
 ## 🚀 Live Demo
-> [Paste your live URL here after deployment]
+>https://group.liveblog365.com
 
 ---
 
@@ -52,8 +52,8 @@ unistack/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Web_Ass_2_group_#_II_A_B.git
-cd Web_Ass_2_group_#_II_A_B
+git clone https://github.com/henrietteirasubiza/Web_Ass_2_group_7_II_A
+cd Web_Ass_2_group_7_II_A
 ```
 
 ### 3. Database Setup
@@ -105,7 +105,7 @@ UPDATE users SET password = 'paste_hash_here' WHERE email = 'admin@ines.ac.rw';
 
 ## 🌐 Deployment (InfinityFree / 000webhost)
 
-1. Create a free account at [infinityfree.net](https://infinityfree.net)
+1. Create a free account at https:profreehost.com
 2. Create a hosting account and note your MySQL credentials
 3. Upload all files via File Manager or FTP (FileZilla)
 4. Create a database in InfinityFree control panel
@@ -126,12 +126,14 @@ UPDATE users SET password = 'paste_hash_here' WHERE email = 'admin@ines.ac.rw';
 
 ## 👥 Team Members
 
-| Name | Role | GitHub |
-|------|------|--------|
-| [Name 1] | Lead / Backend | @username |
-| [Name 2] | Frontend / CSS | @username |
-| [Name 3] | Database / Testing | @username |
-| [Name 4] | Docs / Deployment | @username |
+| Name            |  Role | 
+|------|------
+| youssif mohamed | role1 |
+|umugaba honore    |role2+role4|
+| mwiseneza kelly | role3|
+|iradukunda pauline|role5|
+|ibrahim ahmed     |role6
+| irasubiza henriette | role7
 
 ---
 
